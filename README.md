@@ -4,7 +4,7 @@ A retro 8-bit arcade shooter built with HTML5 Canvas and vanilla JavaScript. No 
 
 ## Story
 
-Parents across the world are being targeted by the nefarious S-Corp. Recruiter offers for C-Suite positions down from the sky, as they attempt to recruit citizens into corporate servitude. Armed with a laser cannon and three magical pink slips, you must blast the falling nametags before they reach the ground.
+Parents across the world are being targeted by the nefarious S-Corp. Recruiter offers for C-Suite positions rain down from the sky, as they attempt to recruit citizens into corporate servitude. Armed with a laser cannon and three magical pink slips, you must blast the falling nametags before they reach the ground.
 
 If S-Corp fills all 10 C-Suite positions by assimilating 5 sets of parents, the world is doomed. But if you can survive 9 waves and bankrupt S-Corp in a final boss battle, the parents will be freed.
 

@@ -4,9 +4,7 @@ A retro 8-bit arcade shooter built with HTML5 Canvas and vanilla JavaScript. No 
 
 ## Story
 
-Parents across the world are being targeted by the nefarious S-Corp. Recruiter offers for C-Suite positions rain down from the sky, as they attempt to recruit citizens into corporate servitude. Armed with a laser cannon and three magical pink slips, you must blast the falling nametags before they reach the ground.
-
-If S-Corp fills all 10 C-Suite positions by assimilating 5 sets of parents, the world is doomed. But if you can survive 9 waves and bankrupt S-Corp in a final boss battle, the parents will be freed.
+This game is a combination of the classic Breakout along with Space Invaders called "Attack of the S-Corp". Random nametags with C-suite titles (CEO, CFO, COO, etc) fall from the top of the screen. The player must shoot them down before they contact the ground. If they DO contact the ground, the name tag will attempt to recruit the player to join S-Corp. But our parents just want to stay home!  And homeschool their kids! They have magical pink slips that they can deploy, but only three of them, to refuse the C-Suite job at S-Corp. Once out of pink slips, if a C-Suite executive approaches then the player will be assimilated into the Corporation. The game re-starts, and another set of parents fights to prevent being assimilated into S-Corp. S-Corp only has 10 C-suite jobs, so if 5 sets of parents are assimilated then S-Corp launches and the world is DOOMED!!! However, if one set of parents should succeed in blasting all the C-Suite nametags then they have a final battle with S-Corp. If they can blast S-Corp into bankruptcy, all the parents trapped in the C-Suite by S-Corp will be freed and the world is SAVED!!!
 
 ## How to Play
 
